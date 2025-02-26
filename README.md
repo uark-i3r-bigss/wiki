@@ -1,7 +1,7 @@
 # BIGSS Wiki
 
-The BIGSS Wiki is based on Hugo, and is hosted on Gitlab Pages.  
-https://bigss.lcsr.wse.jhu.edu/wiki/
+The BIGSS Wiki (based on Hugo) is now hosted on Github Pages.  
+https://jhu-bigss.github.io/wiki/
 
 ## How to contribute
 
@@ -12,7 +12,7 @@ You can add new pages, edit existing pages directly from the Gitlab interface. O
 Clone the repository with the `--recurse-submodules`:
 
 ```
-git clone --recurse-submodules https://gitlab.lcsr.jhu.edu/bigss/bigss-wiki.git
+git clone --recurse-submodules https://github.com/jhu-bigss/wiki.git
 ```
 
 You can build the wiki locally to preview your changes. You will need to install [Hugo](https://gohugo.io/) (Recommend installing `hugo` via Snap Package Manager), and then run the following command from the root of the repository:
